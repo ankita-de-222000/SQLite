@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="uploadImages">Set your image</string>
+    <string name="action_pick">Pictures</string>
+</resources>
